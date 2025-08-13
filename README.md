@@ -54,6 +54,4 @@ I am a passionate and driven developer with a strong interest in **Full Stack De
 
 ---
 
-<p align="center">
-  📝 Generated with ❤️ by <b>Sai Sri Jatin Kancharla</b>
-</p>
+
